@@ -27,7 +27,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,js,react,nodejs,mongodb,express,html,css,git,github,vscode,figma,flutter,docker,opencv" />
+  <img src="https://skillicons.dev/icons?i=py,django,js,react,nodejs,mongodb,express,html,css,git,github,vscode,figma,flutter,docker,opencv,fastapi,yolo,tensorflow" />
 </p>
 
 **AI / ML:** OpenAI API · Embeddings · RAG (Retrieval-Augmented Generation) · YOLOv8 · Computer Vision · OCR
