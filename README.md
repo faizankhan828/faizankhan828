@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizan Khan</h1>
-<h3 align="center">CS Graduate • AI-Integrated Web Developer • MERN & Django</h3>
+<h3 align="center">CS Graduate • AI-Integrated Web Developer • MERN, Django,FastAPi</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -27,7 +27,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,js,react,nodejs,mongodb,express,html,css,git,github,vscode,figma,flutter,docker,opencv,fastapi,yolo,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=py,django,js,react,nodejs,mongodb,express,html,css,git,github,vscode,figma,flutter,docker,vercel,opencv,fastapi, scikit learn,tensorflow,pandas" />
 </p>
 
 **AI / ML:** OpenAI API · Embeddings · RAG (Retrieval-Augmented Generation) · YOLOv8 · Computer Vision · OCR
